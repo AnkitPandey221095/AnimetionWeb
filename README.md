@@ -45,7 +45,9 @@ git clone https://github.com/AnkitPandey221095/AnimetionWeb.git
 ## **📷 Screenshots**
 
 ```bash
-https://github.com/user-attachments/assets/083a91b3-5696-4e5e-b7a4-2e8ff04dae72
+
+![Image](https://github.com/user-attachments/assets/083a91b3-5696-4e5e-b7a4-2e8ff04dae72)
+
 
 ---
 ## 🧠 What I Learned
