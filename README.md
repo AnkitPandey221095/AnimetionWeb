@@ -36,9 +36,10 @@ Built to learn and explore **scroll-based animations, motion design, and UI/UX f
 
 ```bash
 # Clone the repository
-git clone https://github.com/AnkitPandey221095/Animated-Landing-Page.git
-
-# Navigate into the project folder
-cd Animated-Landing-Page
+git clone https://github.com/AnkitPandey221095/AnimetionWeb.git
 
 # Open index.html directly in your browser
+
+---
+
+## 📷 Demo of UI
