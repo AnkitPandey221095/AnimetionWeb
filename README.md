@@ -42,4 +42,26 @@ git clone https://github.com/AnkitPandey221095/AnimetionWeb.git
 
 ---
 
-## 📷 Demo of UI
+## **📷 Screenshots**
+
+```bash
+https://github.com/user-attachments/assets/083a91b3-5696-4e5e-b7a4-2e8ff04dae72
+
+---
+## 🧠 What I Learned
+
+How to synchronize animations with scroll events for a smoother user experience.
+The importance of performance optimization when using heavy animations on web pages.
+How micro-interactions can improve user engagement and make a site feel alive.
+Building web experiences that mimic real-world brand sites with storytelling-based design.
+
+🌍 Live Demo
+👉 View Live Site Here: https://ankitpandey221095.github.io/AnimetionWeb/ 
+
+
+🙌 Thanks for Checking It Out!
+If you liked the project or have feedback, feel free to connect!
+Let’s keep building creative and interactive web experiences. 🚀
+
+⚡ Tags
+#Frontend #WebDesign #UIUX #Animation #GSAP #LocomotiveScroll #CreativeCoding #ScrollAnimation
